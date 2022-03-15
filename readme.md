@@ -5,4 +5,4 @@ As a developer, I was task with creating a week scheduler that would allow the u
 
 ## Screenshot of weekly scheduler
 
-<img src="/image/Untitled.jpg"  alt="Weekly Scheduler" />
+<img src="Untitled.jpg"  alt="Weekly Scheduler" />
